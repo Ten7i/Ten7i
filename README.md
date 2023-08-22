@@ -4,7 +4,7 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    I'm Tenji, currently as a Final Year SE student at <a href="https://www.utar.edu.my/">@UTAR </a> and as an aspiring software developer. My interest lies in field of DevOps and Web Development. Occasionaly I do play some video games and listen to some lofi music.:satisfied:
+    I'm Tenji, an aspiring Software Developer + ICT analyst. My interest lies in field of Data Analysis and Web Development. Occasionaly I do play some video games and listen to some lofi music.:satisfied:
   </samp>
 </p>
 
