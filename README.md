@@ -4,7 +4,7 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    I'm Tenji, an aspiring Software Developer + ICT analyst. My interest lies in field of Data Analysis and Web Development. Occasionaly I do play some video games and listen to some lofi music.:satisfied:
+    I'm Tenji, an aspiring Software Developer. My interest lies in field of creative Web Development. Occasionaly I do play some video games and listen to some lofi music.:satisfied:
   </samp>
 </p>
 
